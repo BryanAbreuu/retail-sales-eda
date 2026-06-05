@@ -1,6 +1,20 @@
 # retail-sales-eda
 # Retail Sales Exploratory Data Analysis
 
+## Project Files
+
+- Portfolio Presentation (PDF)
+- Exploratory Data Analysis Notebook (Jupyter)
+
+### Direct Links
+
+Portfolio PDF:
+https://github.com/BryanAbreuu/retail-sales-eda/blob/main/EDA_Sales_Prediction_Portfolio.pdf
+
+Notebook:
+https://github.com/BryanAbreuu/retail-sales-eda/blob/main/Exploratory%20Data%20Analysis%20for%20Sales%20Prediction.ipynbD
+
+
 ## Overview
 
 This project presents a complete Exploratory Data Analysis (EDA) of a retail sales dataset. The objective was to identify sales patterns, profitability drivers, and business insights that can support future demand forecasting and decision-making processes.
